@@ -1,0 +1,53 @@
+﻿/* Custom Stylesheet */
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.input-field {
+    max-width: 400px;
+}
+
+.tabs .tab a:not(:active) {
+    background-color: white;
+    color: black;
+}
+
+.tabs .tab a.active {
+    background-color: darkcyan;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.tabs .tab a:hover {
+    background-color: #ADADAD;
+}
+
+.itemImage {
+    max-width: 150px;
+    margin:auto;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 140%;
+    color:darkred;
+}
+
+.review {
+	padding: 10px 15px;
+}

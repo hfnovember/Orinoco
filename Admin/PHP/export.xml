@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<StockItems>
+	<books>
+		<book>
+			<title>Harry Potter Colouring Book</title>
+			<genre>Art, Fashion &amp; Photography</genre>
+			<author>Warner Brothers</author>
+			<price>9.99</price>
+			<stock>15</stock>
+		</book>
+		<book>
+			<title>Millie Marotta's Animal Kingdom</title>
+			<genre>Art, Fashion &amp; Photography</genre>
+			<author>Millie Marotta</author>
+			<price>8.49</price>
+			<stock>5</stock>
+		</book>
+		<book>
+			<title>Enchanted Forest</title>
+			<genre>Art, Fashion &amp; Photography</genre>
+			<author>Johanna Basford</author>
+			<price>9.95</price>
+			<stock>2</stock>
+		</book>
+		<book>
+			<title>Secret Garden</title>
+			<genre>Art, Fashion &amp; Photography</genre>
+			<author>Johanna Basford</author>
+			<price>8.46</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Lost Ocean</title>
+			<genre>Art, Fashion &amp; Photography</genre>
+			<author>Johanna Basford</author>
+			<price>12.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Guinness World Records Gamer's Edition 2016</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Guinness World Records</author>
+			<price>9.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Windows 10 for Dummies</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Andy Rathbone</author>
+			<price>17.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Windows 10 in Easy Steps</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Nick Vandrome</author>
+			<price>10.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Hacks For Minecrafters</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Megan Miller</author>
+			<price>6.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Hacker, Hoaxer, Whistleblower, Spy</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Gabriella Coleman</author>
+			<price>9.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Python Programming</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Michael Dawwson</author>
+			<price>23.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Disclaimer</title>
+			<genre>Fiction</genre>
+			<author>Renee Knight</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>A God in Ruins</title>
+			<genre>Fiction</genre>
+			<author>Kate Atkinson</author>
+			<price>5.99</price>
+			<stock>0</stock>
+		</book>
+		<book>
+			<title>The Little Paris Bookshop</title>
+			<genre>Fiction</genre>
+			<author>Nina George</author>
+			<price>6.74</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Versions of Us</title>
+			<genre>Fiction</genre>
+			<author>Laura Barnett</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>All the Light We Cannot See</title>
+			<genre>Fiction</genre>
+			<author>Anthony Doerr</author>
+			<price>6.74</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>My Brilliant Friend</title>
+			<genre>Fiction</genre>
+			<author>Elena Ferrante</author>
+			<price>8.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>All the Light We Cannot See</title>
+			<genre>Fiction</genre>
+			<author>Anne Tyler</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Girl in the Red Coat</title>
+			<genre>Fiction</genre>
+			<author>Kate Hamer</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>You are Dead</title>
+			<genre>Fiction</genre>
+			<author>Pete James</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Lean in 15</title>
+			<genre>Food &amp; Drink</genre>
+			<author>Joe wicks</author>
+			<price>10.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Davina's Smart Carbs</title>
+			<genre>Food &amp; Drink</genre>
+			<author>Davina McCall</author>
+			<price>10.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Fuel for Life</title>
+			<genre>Food &amp; Drink</genre>
+			<author>Bear Grylls</author>
+			<price>11.24</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>200 Slow Cooker Recipes</title>
+			<genre>Food &amp; Drink</genre>
+			<author>Sara Lewis</author>
+			<price>4.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>Eat. Nourish. Glow.</title>
+			<genre>Food &amp; Drink</genre>
+			<author>Amelia Freer</author>
+			<price>14.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Book of You</title>
+			<genre>Food &amp; Drink</genre>
+			<author>Nora Rossendahl</author>
+			<price>6.47</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Life-changing Magic of Tidying</title>
+			<genre>Home &amp; Garden</genre>
+			<author>Marie Kondo</author>
+			<price>8.24</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>50 Ways to Kill a Slug</title>
+			<genre>Home &amp; Garden</genre>
+			<author>Sarah Ford</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The RHS Allotment</title>
+			<genre>Home &amp; Garden</genre>
+			<author></author>
+			<price>12.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The First-Time Gardener</title>
+			<genre>Home &amp; Garden</genre>
+			<author>Frances Tophill</author>
+			<price>16.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Log Book</title>
+			<genre>Home &amp; Garden</genre>
+			<author>Will rolls</author>
+			<price>7.95</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Man in the High Castle</title>
+			<genre>Science Fiction &amp; Fantasy</genre>
+			<author>Philip K Dick</author>
+			<price>6.74</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Bone Clocks</title>
+			<genre>Science Fiction &amp; Fantasy</genre>
+			<author>David Mitchell</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Loney</title>
+			<genre>Science Fiction &amp; Fantasy</genre>
+			<author>Andrew Michael Hurley</author>
+			<price>8.24</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>A Game of Thrones</title>
+			<genre>Science Fiction &amp; Fantasy</genre>
+			<author>George RR Martin</author>
+			<price>7.49</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>The Martian</title>
+			<genre>Science Fiction &amp; Fantasy</genre>
+			<author>Andy Weir</author>
+			<price>5.99</price>
+			<stock>10</stock>
+		</book>
+		<book>
+			<title>HTML &amp; CSS</title>
+			<genre>Computing &amp; Internet</genre>
+			<author>Jon Duckett</author>
+			<price>19.99</price>
+			<stock>10</stock>
+		</book>
+	</books>
+
+	<items>
+		<item>
+			<name>Logitech G510 Keyboard</name>
+			<category>Electronics</category>
+			<supplier>Logitech</supplier>
+			<price>60</price>
+			<stock>43</stock>
+		</item>
+	</items>
+</StockItems>
